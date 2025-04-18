@@ -24,6 +24,6 @@ En este proyecto, desarrollé un CRUD (Create, Read, Update, Delete) **Full Stac
 ✔️ Manejo de estado con **useState** y **useEffect**  
 ✔️ Persistencia con **MySQL y Hibernate**    
 
-
+---
 
 

@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# 🚀 CRUD Full Stack con React, Vite y Spring Boot | Gestión de Registros con MySQL 🗄️  
+# Gestión de Empleados  
 
-¡Bienvenido! 🎉 En este proyecto, desarrollé un CRUD (Create, Read, Update, Delete) **Full Stack** usando **React con Vite** en el frontend y **Spring Boot** en el backend, con **MySQL** como base de datos.  
+En este proyecto, desarrollé un CRUD (Create, Read, Update, Delete) **Full Stack** usando **React con Vite** en el frontend y **Spring Boot** en el backend, con **MySQL** como base de datos.  
 
 ## 🛠️ Tecnologías Utilizadas  
 
@@ -22,8 +22,7 @@
 ✔️ CRUD completo: Agregar, editar, eliminar y listar registros 📝  
 ✔️ Conexión entre **React y Spring Boot** mediante API REST 🔗  
 ✔️ Manejo de estado con **useState** y **useEffect**  
-✔️ Persistencia con **MySQL y Hibernate**  
-✔️ Código limpio y buenas prácticas 🏆  
+✔️ Persistencia con **MySQL y Hibernate**    
 
 ---
 

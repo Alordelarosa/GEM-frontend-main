@@ -19,10 +19,11 @@ En este proyecto, desarrollé un CRUD (Create, Read, Update, Delete) **Full Stac
 ---
 
 ##  **Características del Proyecto**  
-✔️ CRUD completo: Agregar, editar, eliminar y listar registros 
-✔️ Conexión entre **React y Spring Boot** mediante API REST 
+✔️ CRUD completo: Agregar, editar, eliminar y listar registros   
+✔️ Conexión entre **React y Spring Boot** mediante API REST   
 ✔️ Manejo de estado con **useState** y **useEffect**  
 ✔️ Persistencia con **MySQL y Hibernate**    
+
 
 ---
 

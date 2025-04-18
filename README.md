@@ -1,7 +1,7 @@
 
 # Gestión de Empleados  
 
-En este proyecto, desarrollé un CRUD (Create, Read, Update, Delete) **Full Stack** usando **React con Vite** en el frontend y **Spring Boot** en el backend, con **MySQL** como base de datos.  
+Proyecto donde desarrollo un CRUD (Create, Read, Update, Delete) **Full Stack** usando **React con Vite** en el frontend y **Spring Boot** en el backend, con **MySQL** como base de datos.  
 
 ##  Tecnologías Utilizadas  
 

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CRUD Full Stack con React, Vite y Spring Boot | Gestión de Registros con MySQL 🗄️  
 
 ¡Bienvenido! 🎉 En este proyecto, desarrollé un CRUD (Create, Read, Update, Delete) **Full Stack** usando **React con Vite** en el frontend y **Spring Boot** en el backend, con **MySQL** como base de datos.  
@@ -33,3 +34,6 @@
 git clone https://github.com/LionelOrh/Prueba-Tecnica-MCC-FrontEnd.git
 git clone https://github.com/LionelOrh/Prueba-Tecnica-MCC-Backend.git
 
+=======
+# Proyecto-GEM
+>>>>>>> dc9a1021e714a8107c6600c01e6a0f534f803c68
